@@ -1,2 +1,2 @@
-# flyingjamnik.org
+# flyinggopher.org
 Website for flyingjamnik.org
